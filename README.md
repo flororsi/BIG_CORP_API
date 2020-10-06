@@ -1,5 +1,5 @@
 # BIG_CORP_API
-##Overview
+## Overview
 
 Your task is to build a web app with a read-only JSON api for 3
 resources, employees , departments , offices , you can use any framework or language for
@@ -16,7 +16,7 @@ The data source for offices and departments are the files offices.json, departme
 are the entire list of offices and departments, and you can just read all the data for each and keep it
 in memory in your app.
 
-#API
+## API
 Your app should support GET requests to two endpoints (list & detail) for each resource following a
 standard REST convention
 detail e.g. /employees/1
